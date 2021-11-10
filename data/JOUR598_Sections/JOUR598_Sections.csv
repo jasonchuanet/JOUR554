@@ -1,6 +1,6 @@
 Section,Session,Type,Time,Days,Registered,Instructor,Location,Syllabus,Info,JC_Registered,JC_Capacity,JC_Open?
-21621R,1,Lecture,9:00-12:20pm,Monday,6 of 11,,ANN308,,,6,11,Open
+21621R,1,Lecture,9:00-12:20pm,Monday,11 of 11,,ANN308,,,11,11,Closed
 21622R,1,Lecture,9:00-12:20pm,Monday,3 of 11,,ANN413,,,3,11,Open
 21623R,1,Lecture,12:30-3:50pm,Monday,11 of 11,"Alan Mittelstaedt,Lisa Pecot-Hebert",ANN408,,,11,11,Closed
-21624R,1,Lecture,12:30-3:50pm,Monday,3 of 11,Alan Abrahamson,ANN307,,,3,11,Open
-21625R,1,Lecture,12:30-3:50pm,Monday,6 of 11,Vince Gonzales,ANN211,,,6,11,Open
+21624R,1,Lecture,12:30-3:50pm,Monday,10 of 11,Alan Abrahamson,ANN307,,,10,11,Open
+21625R,1,Lecture,12:30-3:50pm,Monday,11 of 11,Vince Gonzales,ANN211,,,11,11,Closed
